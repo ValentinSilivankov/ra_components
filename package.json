@@ -36,5 +36,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Компоненты ===",
+  "main": "index.js",
+  "repository": "git+ssh://git@github.com/ValentinSilivankov/ra_components.git",
+  "author": "LiTiN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinSilivankov/ra_components/issues"
+  },
+  "homepage": "https://github.com/ValentinSilivankov/ra_components#readme"
 }
